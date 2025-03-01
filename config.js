@@ -1,9 +1,11 @@
-module.exports = {
-    botName: "NovemX Prime",
-    ownerName: "Elijah Tracker Wanga",
-    ownerNumber: "254758476795",
-    prefix: "[.]", // Bot command prefix
-    autoReadMessages: true,
-    autoTyping: true,
-    autoReadStatus: true
-};￼Enter
+{
+    "bot_name": "NovemX Prime",
+    "owner": "Tracker Wanga",
+    "phone_number": "+254758476795",
+    "prefix": ".",
+    "ai_enabled": true,
+    "api_keys": {
+        "openai": "YOUR_OPENAI_API_KEY",
+        "weather": "YOUR_WEATHER_API_KEY"
+    }
+        
